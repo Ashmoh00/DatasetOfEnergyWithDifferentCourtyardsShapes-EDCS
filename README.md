@@ -3,7 +3,7 @@
 ## Dataset
 
 ### Description
-This dataset source in Malaysia kuala lumpur, includes 15,357 entries with 15 columns describing various building characteristics and energy loads. is collected by Dr.Abdulbasid AlMahfadi.
+This dataset source in Malaysia kuala lumpur, includes 15,357 entries with 15 columns describing various building characteristics and energy loads. is collected by Dr.Abdulbasit AlMhfady.
 
 ### Key Details
 
