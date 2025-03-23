@@ -7,7 +7,7 @@ This dataset source in Malaysia kuala lumpur, includes 8,538 entries with 10 col
 
 ### Key Details
 
-- Total Entries: The dataset contains 15357 entries, each representing a building.
+- Total Entries: The dataset contains 8,538 entries, each representing a building.
   
 - Columns: There are 10 columns in the dataset:
   - Width: building Width.
